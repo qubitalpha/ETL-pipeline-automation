@@ -1,0 +1,32 @@
+version: '3'
+services:
+
+  db:
+    image: postgres:9.6.9-alpine
+#    volumes:
+#      - "./postgres-data:/var/lib/postgresql/data"
+    ports:
+      - "1234:5432"
+    environment:
+      POSTGRES_USER: "example"
+      POSTGRES_PASSWORD: "example"
+      POSTGRES_DB: "assignment-dev"
+
+  app:
+    depends_on:
+      - db
+    build:
+      context: .
+      dockerfile: Dockerfile-python
+    environment:
+      DB_HOST: "db"
+      DB_PORT: "5432"
+      DB_USERNAME: "example"
+      DB_PASSWORD: "example"
+      DB_DBNAME: "assignment-dev"
+    tty: true
+    volumes:
+      - ./:/usr/src/
+
+#volumes:
+#  postgres-data:

@@ -1,0 +1,361 @@
+{
+    "results": [
+        {
+            "link": "http://www.samferda.net/en/detail/101141",
+            "from": "Reykjavík",
+            "to": "Akureyri",
+            "date": "2018-10-30",
+            "time": "09:30"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/101149",
+            "from": "Reykjavík",
+            "to": "Akureyri",
+            "date": "2018-10-30",
+            "time": "13:30"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/101110",
+            "from": "Höfn",
+            "to": "Reykjavík",
+            "date": "2018-10-31",
+            "time": "any time"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/99986",
+            "from": "Reykjavík",
+            "to": "Akureyri",
+            "date": "2018-11-02",
+            "time": "12:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/101098",
+            "from": "Selfoss",
+            "to": "Vík",
+            "date": "2018-11-02",
+            "time": "10:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/101138",
+            "from": "Keflavík (Airport)",
+            "to": "Vík",
+            "date": "2018-11-02",
+            "time": "afternoon/evening"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/96419",
+            "from": "Reykjavík",
+            "to": "Reykjavík",
+            "date": "2018-11-03",
+            "time": "12:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/101124",
+            "from": "Reykjavík",
+            "to": "Reykjavík",
+            "date": "2018-11-03",
+            "time": "08:30"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/101148",
+            "from": "Reykjavík",
+            "to": "Reykjavík",
+            "date": "2018-11-04",
+            "time": "08:30"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/101116",
+            "from": "Keflavík (Airport)",
+            "to": "Reykjavík",
+            "date": "2018-11-06",
+            "time": "20:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/101144",
+            "from": "Borgarnes",
+            "to": "Reykjavík",
+            "date": "2018-11-06",
+            "time": "Morning/Midday"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/101117",
+            "from": "Keflavík (Airport)",
+            "to": "Reykjavík",
+            "date": "2018-11-07",
+            "time": "20:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/101118",
+            "from": "Keflavík (Airport)",
+            "to": "Reykjavík",
+            "date": "2018-11-07",
+            "time": "20:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/101123",
+            "from": "Akranes",
+            "to": "Keflavík (Airport)",
+            "date": "2018-11-14",
+            "time": "03:45"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/100812",
+            "from": "Reykjavík",
+            "to": "Vík",
+            "date": "2018-11-16",
+            "time": "12:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/100412",
+            "from": "Reykjavík",
+            "to": "Vík",
+            "date": "2018-11-24",
+            "time": "10:30"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/100627",
+            "from": "Reykjavík",
+            "to": "Laugarvatn",
+            "date": "2018-11-24",
+            "time": "12:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/100653",
+            "from": "Keflavík (Airport)",
+            "to": "Reykjavík",
+            "date": "2018-11-26",
+            "time": "1:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/100466",
+            "from": "Reykjavík",
+            "to": "Vík",
+            "date": "2018-11-27",
+            "time": "9"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/100947",
+            "from": "Keflavík (Airport)",
+            "to": "Reykjavík",
+            "date": "2018-11-30",
+            "time": "15:30"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/101137",
+            "from": "Reykjavík",
+            "to": "Reykjavík",
+            "date": "2018-12-01",
+            "time": "09:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/100979",
+            "from": "Húsavík",
+            "to": "Reykjavík",
+            "date": "2018-12-02",
+            "time": "12:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/100676",
+            "from": "Reykjavík",
+            "to": "Reykjavík",
+            "date": "2018-12-07",
+            "time": "12:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/101067",
+            "from": "Reykjavík",
+            "to": "Reykjavík",
+            "date": "2018-12-17",
+            "time": "12:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/99868",
+            "from": "Höfn",
+            "to": "Kirkjubæjarklaustur",
+            "date": "2018-12-21",
+            "time": "11:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/95161",
+            "from": "Keflavík",
+            "to": "Vík",
+            "date": "2018-12-22",
+            "time": "12:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/99869",
+            "from": "Kirkjubæjarklaustur",
+            "to": "Vík",
+            "date": "2018-12-23",
+            "time": "10:30"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/99872",
+            "from": "Vík",
+            "to": "Selfoss",
+            "date": "2018-12-24",
+            "time": "10:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/101003",
+            "from": "Selfoss",
+            "to": "Selfoss",
+            "date": "2018-12-25",
+            "time": "8:30"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/99873",
+            "from": "Selfoss",
+            "to": "Grundarfjörður",
+            "date": "2018-12-26",
+            "time": "10:30"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/99874",
+            "from": "Reykjavík",
+            "to": "Grundarfjörður",
+            "date": "2018-12-26",
+            "time": "12:30"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/99875",
+            "from": "Grundarfjörður",
+            "to": "Grindavík",
+            "date": "2018-12-27",
+            "time": "10:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/99876",
+            "from": "Grundarfjörður",
+            "to": "Reykjavík",
+            "date": "2018-12-27",
+            "time": "10:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/99877",
+            "from": "Reykjavík",
+            "to": "Grindavík",
+            "date": "2018-12-27",
+            "time": "15:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/100940",
+            "from": "Reykjavík",
+            "to": "Höfn",
+            "date": "2018-12-28",
+            "time": "9:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/101000",
+            "from": "Akureyri",
+            "to": "Reykjavík",
+            "date": "2019-02-02",
+            "time": "11:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/99814",
+            "from": "Reykjavík",
+            "to": "Höfn",
+            "date": "2019-02-10",
+            "time": "9:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/101010",
+            "from": "Reykjavík",
+            "to": "Vík",
+            "date": "2019-02-16",
+            "time": ""
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/101133",
+            "from": "Reykjavík",
+            "to": "Egilsstaðir",
+            "date": "2019-02-21",
+            "time": "12:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/101058",
+            "from": "Reykjavík",
+            "to": "Hvanneyri",
+            "date": "2019-02-27",
+            "time": "8:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/87345",
+            "from": "Reykjavík",
+            "to": "Vík",
+            "date": "2019-03-01",
+            "time": "8pm"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/96004",
+            "from": "Akureyri",
+            "to": "Ólafsvík",
+            "date": "2020-03-13",
+            "time": "12:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/96005",
+            "from": "Akureyri",
+            "to": "Akranes",
+            "date": "2021-03-13",
+            "time": "12:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/95658",
+            "from": "Ísafjörður",
+            "to": "Ögur í Ísafjarðardjúpi",
+            "date": "2022-02-22",
+            "time": "12:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/96013",
+            "from": "Akureyri",
+            "to": "Mjóifjörður",
+            "date": "2022-03-13",
+            "time": "16:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/96012",
+            "from": "Akureyri",
+            "to": "Akranes",
+            "date": "2024-03-13",
+            "time": "12:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/96015",
+            "from": "Akureyri",
+            "to": "Ólafsvík",
+            "date": "2028-03-13",
+            "time": "16:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/96647",
+            "from": "Reykjavík",
+            "to": "Landmannalaugar",
+            "date": "2168-02-08",
+            "time": "any"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/97868",
+            "from": "Reykjavík",
+            "to": "Hvolsvöllur",
+            "date": "2171-08-29",
+            "time": "12:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/95377",
+            "from": "Reykjavík",
+            "to": "",
+            "date": "2200-02-05",
+            "time": "12:00"
+        },
+        {
+            "link": "http://www.samferda.net/en/detail/43841",
+            "from": "Reykjavík",
+            "to": "Akureyri",
+            "date": "29521-05-23",
+            "time": "12:00"
+        }
+    ]
+}

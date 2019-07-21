@@ -1,0 +1,25 @@
+FROM python:3.6.1-alpine
+
+# Postgres dependencies
+# RUN apk update \
+#   && apk add \
+#     build-base \
+#     postgresql \
+#     postgresql-dev \
+#     libpq
+
+# Copy project files into the container. Note that we also copy the 
+# data files for convenience
+COPY . /usr/src/
+
+# Python dependencies
+WORKDIR /usr/src/
+RUN apk update && \
+    apk add postgresql-libs && \
+    apk add --virtual .build-deps gcc musl-dev postgresql-dev && \
+    python3 -m pip install -r python-packages.pip.txt --no-cache-dir && \
+    apk --purge del .build-deps
+
+ENV PYTHONUNBUFFERED 1
+
+CMD python start_all_the_things.py; python -m unittest discover tests

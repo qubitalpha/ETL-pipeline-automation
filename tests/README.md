@@ -1,0 +1,1 @@
+This directory is for your convenience, in case you write tests for the ETL code.
